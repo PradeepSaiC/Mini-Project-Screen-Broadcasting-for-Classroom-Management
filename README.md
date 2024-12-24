@@ -8,3 +8,13 @@ This project enables screen broadcasting for classroom management, where a teach
 - Real-Time Streaming: Seamlessly stream the teacher's content with low latency.
 - Classroom-Friendly: Specifically designed for local classroom networks with high-speed connectivity.
 - Real-Time-Chat: Students and the teacher can communicate without leaving the browser in real time.
+
+### This is how output looks like
+- It has group video calling functionality.
+![sample](images/sample.png "Project Working Sample")
+
+- It has screen sharing functionality.
+![screen sharing sample](images/screen.png "Screen Sharing sample")
+
+- It has real time chatting functionality.
+![chat sample](images/messages.png "Real time chat sample")
